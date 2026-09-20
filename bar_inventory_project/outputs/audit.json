@@ -1,0 +1,19 @@
+{
+  "raw_rows": 6575,
+  "duplicates_removed": 0,
+  "series": 96,
+  "days": 366,
+  "start": "2023-01-01",
+  "end": "2024-01-01",
+  "balance_flag_rows": 149,
+  "maximum_balance_error_ml": 9.25,
+  "continuity_flag_rows": 206,
+  "missing_series_days": 28561,
+  "total_series_days": 35136,
+  "observed_zero_closing_days": 416,
+  "historical_stockout_proxy_days": 416,
+  "train_end": "2023-08-07",
+  "validation_end": "2023-10-19",
+  "test_start": "2023-10-20",
+  "selected_model": "mean_14"
+}

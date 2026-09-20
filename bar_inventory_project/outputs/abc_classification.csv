@@ -1,0 +1,97 @@
+Bar Name,Brand Name,consumption_ml,class
+Brown's Bar,Yellow Tail,24021.419999999995,A
+Johnson's Bar,Captain Morgan,23218.209999999995,A
+Anderson's Bar,Barefoot,22784.939999999995,A
+Johnson's Bar,Smirnoff,22339.01,A
+Taylor's Bar,Grey Goose,22225.779999999995,A
+Smith's Bar,Absolut,21987.859999999997,A
+Anderson's Bar,Captain Morgan,21880.559999999998,A
+Johnson's Bar,Absolut,21523.350000000006,A
+Brown's Bar,Grey Goose,21469.640000000003,A
+Anderson's Bar,Bacardi,21260.12,A
+Thomas's Bar,Jack Daniels,21036.309999999998,A
+Thomas's Bar,Grey Goose,21022.68999999999,A
+Thomas's Bar,Jim Beam,20989.85,A
+Smith's Bar,Jim Beam,20740.960000000003,A
+Anderson's Bar,Grey Goose,20304.40000000001,A
+Johnson's Bar,Barefoot,20203.129999999994,A
+Smith's Bar,Malibu,20123.419999999995,A
+Johnson's Bar,Malibu,20057.370000000003,A
+Taylor's Bar,Budweiser,19862.469999999994,A
+Taylor's Bar,Jack Daniels,19607.35,A
+Smith's Bar,Grey Goose,19562.139999999996,A
+Anderson's Bar,Smirnoff,19514.13,A
+Smith's Bar,Captain Morgan,19412.800000000003,A
+Anderson's Bar,Jameson,19399.689999999995,A
+Smith's Bar,Yellow Tail,18976.119999999995,A
+Johnson's Bar,Grey Goose,18932.51,A
+Anderson's Bar,Jim Beam,18876.510000000002,A
+Thomas's Bar,Miller,18814.079999999998,A
+Brown's Bar,Bacardi,18385.690000000002,A
+Thomas's Bar,Malibu,18212.38000000001,A
+Brown's Bar,Jim Beam,18071.420000000006,A
+Thomas's Bar,Bacardi,18042.97,A
+Smith's Bar,Miller,17966.22000000001,A
+Taylor's Bar,Captain Morgan,17949.31999999999,A
+Taylor's Bar,Jim Beam,17848.05,A
+Anderson's Bar,Coors,17721.43,A
+Anderson's Bar,Sutter Home,17683.879999999997,A
+Johnson's Bar,Sutter Home,17658.66,A
+Brown's Bar,Jack Daniels,17556.839999999997,A
+Taylor's Bar,Malibu,17480.389999999992,A
+Brown's Bar,Jameson,17276.920000000002,A
+Brown's Bar,Sutter Home,17047.920000000006,A
+Taylor's Bar,Barefoot,17003.350000000002,A
+Smith's Bar,Barefoot,16880.45,A
+Thomas's Bar,Absolut,16852.060000000005,A
+Brown's Bar,Heineken,16712.36,A
+Taylor's Bar,Jameson,16411.66,A
+Johnson's Bar,Budweiser,16362.810000000005,A
+Thomas's Bar,Barefoot,16307.349999999999,A
+Taylor's Bar,Smirnoff,16259.179999999998,A
+Johnson's Bar,Yellow Tail,16219.130000000001,A
+Anderson's Bar,Miller,16127.019999999999,A
+Thomas's Bar,Smirnoff,16095.329999999998,A
+Brown's Bar,Captain Morgan,15944.23,A
+Anderson's Bar,Jack Daniels,15747.34,A
+Smith's Bar,Jack Daniels,15718.630000000001,A
+Thomas's Bar,Captain Morgan,15694.970000000001,A
+Brown's Bar,Absolut,15543.499999999996,A
+Anderson's Bar,Yellow Tail,15453.400000000003,A
+Johnson's Bar,Coors,15325.87,A
+Smith's Bar,Sutter Home,15181.49,A
+Brown's Bar,Barefoot,15172.859999999997,A
+Johnson's Bar,Jack Daniels,15168.779999999997,A
+Thomas's Bar,Jameson,14946.010000000002,A
+Brown's Bar,Miller,14907.660000000002,A
+Taylor's Bar,Absolut,14672.040000000005,A
+Anderson's Bar,Heineken,14505.240000000002,A
+Taylor's Bar,Bacardi,14345.0,A
+Johnson's Bar,Jameson,14283.570000000002,A
+Brown's Bar,Budweiser,14145.509999999998,A
+Smith's Bar,Bacardi,14111.72,B
+Johnson's Bar,Heineken,13902.34,B
+Johnson's Bar,Bacardi,13870.5,B
+Taylor's Bar,Yellow Tail,13772.289999999997,B
+Brown's Bar,Malibu,13539.92,B
+Smith's Bar,Jameson,13066.079999999998,B
+Smith's Bar,Coors,12957.57,B
+Smith's Bar,Heineken,12748.530000000002,B
+Taylor's Bar,Miller,12531.06,B
+Smith's Bar,Smirnoff,12407.730000000001,B
+Brown's Bar,Smirnoff,12185.61,B
+Anderson's Bar,Malibu,12066.82,B
+Johnson's Bar,Miller,11679.469999999998,B
+Taylor's Bar,Coors,11597.360000000002,B
+Thomas's Bar,Sutter Home,11532.46,B
+Johnson's Bar,Jim Beam,11340.5,B
+Thomas's Bar,Yellow Tail,11328.850000000002,B
+Thomas's Bar,Heineken,11241.91,B
+Thomas's Bar,Coors,11081.810000000003,B
+Taylor's Bar,Sutter Home,10820.41,C
+Thomas's Bar,Budweiser,10714.11,C
+Smith's Bar,Budweiser,10246.550000000001,C
+Anderson's Bar,Budweiser,10062.289999999999,C
+Anderson's Bar,Absolut,9404.460000000001,C
+Brown's Bar,Coors,9058.659999999998,C
+Taylor's Bar,Heineken,8614.13,C

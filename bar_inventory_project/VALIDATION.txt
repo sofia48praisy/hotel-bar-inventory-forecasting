@@ -1,0 +1,1 @@
+Validation completed: all 6 unit tests passed. Notebook: all 6 code cells executed without errors. PDF: 2 pages, visually reviewed. Raw input copied unchanged. Results are historical simulation outcomes; see report limitations.

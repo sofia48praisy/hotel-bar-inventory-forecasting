@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+tmp/
+# Local verification outputs and environment-specific helpers
+submission/krystal_ball_run/
+execute_notebook.py
+# Reference material and generated upload archive
+*.mht
+assessment-extracted.txt
+krystal_ball_submission.zip
+# Local secrets and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
